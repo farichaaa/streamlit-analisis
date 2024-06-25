@@ -4,3 +4,4 @@ streamlit
 pickle 
 scikit-learn
 pip==21.2.4
+python==3.9.12
